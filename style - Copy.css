@@ -1,0 +1,63 @@
+/* E- School */
+.img-fluid{
+
+margin-top: 20px;
+height: 80px;
+left: 292px;
+top: 45px;
+
+font-family: Rubik;
+font-style: normal;
+font-weight: bold;
+font-size: 24.8571px;
+line-height: 29px;
+
+color: #56548C;
+}
+
+.container{
+    margin-bottom: 100px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.navbar {
+    position: relative;
+    margin-top: 20px;
+    display: flex;
+   
+    flex-wrap: wrap;
+    
+    align-items: center;
+    
+    justify-content: space-between;
+    padding: .5rem 1rem;
+}
+
+.nav-link{
+    margin-right: 10px;
+    margin-left: 5px;
+    font-weight: 500;
+}
+
+.btn {
+    display: inline-block;
+    border-radius: 30px;
+   /* height: 30px;
+    width: 80px;*/
+    text-align: center;
+    border: none;
+   
+    padding: 15px 25px;
+    font-size:16px;
+}
+.btn-success{
+    margin-left: 5px;
+    text-align: center;
+    vertical-align: middle;
+    height: 20px;
+    margin: 0 auto;
+
+}
